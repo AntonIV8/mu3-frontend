@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-mu3-a3-e",
+  "editForm": "i-i-s-mu3-a3-e",
+  "external": false,
+  "caption": "A3",
+  "name": "IISmu3A3L",
+  "className": "A3L",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu3-a3",
+      "modelProjection": "A3L"
+    }
+  ]
+}

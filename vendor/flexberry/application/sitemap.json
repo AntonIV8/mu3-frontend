@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Mu3",
+  "applicationTitle": "Mu3",
+  "items": [
+    {
+      "link": null,
+      "menuName": "mu3",
+      "caption": "mu3",
+      "title": "mu3",
+      "children": [
+        {
+          "link": "i-i-s-mu3-a3-l",
+          "menuName": null,
+          "caption": "A3",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
